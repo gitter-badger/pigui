@@ -1,4 +1,6 @@
+*.sqlite3
 target/
 .idea/
 pigui-virt
 pigui.iml
+*.pyc
